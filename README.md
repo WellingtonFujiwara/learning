@@ -42,3 +42,5 @@ num | nome | nota
 testando entre crases: `document.getElementById()`
 
 colocando emojis ✋ 🖖
+
+> quote reply
