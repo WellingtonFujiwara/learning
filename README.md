@@ -40,3 +40,5 @@ num | nome | nota
 3 | douglas | 9.5
 
 testando entre crases: `document.getElementById()`
+
+colocando emojis ✋ 🖖
