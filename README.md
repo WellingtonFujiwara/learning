@@ -31,3 +31,12 @@ Lista de tarefas:
 
 Links:
 [descrição](https://......)
+
+Tabela:
+num | nome | nota
+---|---|---
+1 | wellington | 10.0
+2 | rodrigo | 7.5
+3 | douglas | 9.5
+
+testando entre crases: `document.getElementById()`
